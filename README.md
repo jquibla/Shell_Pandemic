@@ -1,8 +1,8 @@
 # Shell_Pandemic
 ## Participantes
 <p>Alberto Cortinas</p>
-Andrés Ramos
-Carlos García
-Edgar Otero
-Jorge Quintana
-Tiago Villa
+<p>Andrés Ramos</p>
+<p>Carlos García</p>
+<p>Edgar Otero</p>
+<p>Jorge Quintana</p>
+<p>Tiago Villa</p>
